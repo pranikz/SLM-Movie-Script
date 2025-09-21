@@ -17,6 +17,9 @@ The dataset was split 90/10 for training and validation, ensuring robust evaluat
 
 ## Model Architecture: A Compact GPT
 
+<img width="2040" height="1170" alt="image" src="https://github.com/user-attachments/assets/6ea04849-6bf5-4307-8acd-6ad384d8233d" />
+
+
 The core architecture follows the transformer decoder pattern popularized by GPT models, but scaled for efficiency:
 
 ### Key Specifications:
