@@ -1,4 +1,4 @@
-🚀 Small Language Model (SLM) from Scratch — Explained
+#🚀 Small Language Model (SLM) from Scratch — Explained
 
 This notebook builds, trains, and runs a small Transformer-based language model (mini GPT) on a movie scripts dataset.
 Written for someone who knows basic ML/DL but is new to LLMs.
